@@ -1,0 +1,36 @@
+{
+    "profils": [
+        {
+            "id": 1,
+            "nom": "Kirkland",
+            "prenom": "Hannah",
+            "mail": "hannahkirkland@mail.com",
+            "formule": "",
+            "password": ""
+        },
+        {
+            "id": 2,
+            "nom": "Grimm",
+            "prenom": "Raphaël",
+            "mail": "jraph@mail.com",
+            "formule": "",
+            "password": ""
+        },
+        {
+            "id": 3,
+            "nom": "Doe",
+            "prenom": "John",
+            "mail": "johndoe@mail.com",
+            "formule": "",
+            "password": ""
+        },
+        {
+            "id": 4,
+            "nom": "Hightower",
+            "prenom": "Caleb",
+            "mail": "hcaleb@gmail.com",
+            "formule": "",
+            "password": ""
+        }
+    ]
+}
