@@ -5,32 +5,32 @@
             "nom": "Kirkland",
             "prenom": "Hannah",
             "mail": "hannahkirkland@mail.com",
-            "formule": "",
-            "password": ""
+            "formule": "mouette",
+            "password": "$2y$10$q.jbTHMKcaJ8QdDqdfCecOuC4RAidOUJ8.mWzR0g0L.sXAqJfHH3."
         },
         {
             "id": 2,
             "nom": "Grimm",
             "prenom": "Raphaël",
             "mail": "jraph@mail.com",
-            "formule": "",
-            "password": ""
+            "formule": "goeland",
+            "password": "$2y$10$pIkHzOIDehkcsb8zWhjuMuwZE.0JK1NMK19/Dgjjs/jb9vB04uFTy"
         },
         {
             "id": 3,
             "nom": "Doe",
             "prenom": "John",
             "mail": "johndoe@mail.com",
-            "formule": "",
-            "password": ""
+            "formule": "albatros",
+            "password": "$2y$10$B4rTYpKkf64JntnvDQkW7uEGTCsIeAZWsG4SIeUmGdpue8z30NPuS"
         },
         {
             "id": 4,
             "nom": "Hightower",
             "prenom": "Caleb",
             "mail": "hcaleb@gmail.com",
-            "formule": "",
-            "password": ""
+            "formule": "mouette",
+            "password": "$2y$10$wlhevnWzhbcLOX1EabQi0.E3zZLnq3F7zu/idCaAxkWz3SkwbnKni"
         }
     ]
 }
