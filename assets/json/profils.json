@@ -7,6 +7,7 @@
             "mail": "hannahkirkland@mail.com",
             "formule": "mouette",
             "password": "$2y$10$q.jbTHMKcaJ8QdDqdfCecOuC4RAidOUJ8.mWzR0g0L.sXAqJfHH3."
+
         },
         {
             "id": 2,
@@ -21,14 +22,14 @@
             "nom": "Doe",
             "prenom": "John",
             "mail": "johndoe@mail.com",
-            "formule": "albatros",
+            "formule": "mouette",
             "password": "$2y$10$B4rTYpKkf64JntnvDQkW7uEGTCsIeAZWsG4SIeUmGdpue8z30NPuS"
         },
         {
             "id": 4,
             "nom": "Hightower",
             "prenom": "Caleb",
-            "mail": "hcaleb@gmail.com",
+            "mail": "hcaleb@mail.com",
             "formule": "mouette",
             "password": "$2y$10$wlhevnWzhbcLOX1EabQi0.E3zZLnq3F7zu/idCaAxkWz3SkwbnKni"
         }

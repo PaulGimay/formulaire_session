@@ -1,0 +1,171 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap%27');
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans:ital,wght@1,300&display=swap');
+
+*{
+   
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #9b59b6;
+    color: rgb(27, 26, 24);
+    font-family: 'Alegreya Sans', sans-serif; 
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    margin: 0;
+}
+.content{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    border: 1px solid silver;
+}
+.myForm{
+    border: 1px solid silver;
+    border-radius: 10px;
+    width :300px;
+    background-color: white;
+    
+    
+    
+}
+.container{
+    background-color: #FFF;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.3);
+    width: 400px;
+    overflow: hidden;
+    margin-bottom: 30px;
+   height : 90vh;
+    
+}
+.header{
+    background-color : #f7f7f7;
+    padding: 20px 40px;
+    border-bottom :1px solid #f0f0f0;
+    
+}
+.header h2 {
+    margin: 0;
+    color: #8e44ad;
+
+}
+.form{
+    padding : 30px 40px;
+}
+.form-control {
+    /* margin-bottom: 10px; */
+    padding-bottom: 20px;
+    position:relative;
+}
+.form-control label{
+    display: inline-block; /* pour pouvoir appliquer le margin-bottom */
+    margin-bottom: 5px;
+}
+.form-control input {
+    border : 2px solid #f0f0f0;
+    border-radius: 4px;
+    display: block;
+    font-size: 14px;
+    font-family: inherit;
+    width: 100%;
+    padding: 10px;
+}
+.form-control.success input{
+
+    border-color: #9b59b6;
+}
+.form-control.error input{
+
+    border-color: #e74c3c;
+}
+
+.form-control i {
+    position: absolute;
+    top : 40px;
+    right : 10px;
+    visibility: hidden;
+}
+.form-control.success i.fa-check-circle {
+    visibility: visible;
+    color: #2ecc71;
+}
+.form-control.error i.fa-exclamation-circle {
+    visibility: visible;
+    color: #e74c3c;
+}
+
+.form-control small {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    visibility: hidden;
+}
+.form-control.error small {
+    visibility: visible;
+    color: #e74c3c;
+}
+.form button{
+    background-color: #8e44ad;
+    border: 2px solid #8e44ad;
+    color : #fff;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    font-family: inherit;
+    border-radius: 4px;
+}
+
+img.imgSize {
+    width: 100%;
+}
+
+.errormsg {
+    color: red;
+    text-align: center;
+}
+
+.preview {
+    width: 35%;
+    height: 35%;
+
+}
+
+.bi {
+    color: black;
+    font-size: 40px;
+}
+
+.formInput {
+    width: 500px;
+}
+
+.test2 {
+    display: flex;
+    justify-content: center;
+}
+
+.camera {
+    position: relative;
+    left: 45%;
+    font-size: 150px;
+    color: #8e44ad;
+}
+
+@media only screen and (max-width: 600px) {
+    .camera {
+        left: 35%;
+        font-size: 100px;
+    }
+  }
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    color: blanchedalmond;
+}
